@@ -11,6 +11,7 @@
 - MS SQL, PostgreSQL, NoSQL(MongoDB)
 - Docker
 - Microservice
+- AWS
 
 💞️ I’m looking to collaborate on open-source projects that tackle real-world problems and push the boundaries of technology.
 
