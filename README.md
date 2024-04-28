@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Tareq612625
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Tareq612625
 
-<!---
-Tareq612625/Tareq612625 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in building innovative software solutions and exploring emerging technologies.
+
+🌱 I’m currently learning more about containerization and orchestration with Docker and Kubernetes.
+
+💼 I have expertise in:
+- C#, ASP.NET, ASP .NET CORE
+- HTML, CSS, JavaScript
+- jQuery, ReactJS
+- MS SQL, PostgreSQL, NoSQL(MongoDB)
+- Docker
+- Microservice
+
+💞️ I’m looking to collaborate on open-source projects that tackle real-world problems and push the boundaries of technology.
+
+📫 How to reach me: [(https://www.linkedin.com/in/tareq-aziz-89225118b/)]
