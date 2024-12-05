@@ -7,11 +7,12 @@
 💼 I have expertise in:
 - C#, ASP.NET, ASP .NET CORE
 - HTML, CSS, JavaScript
-- jQuery, ReactJS
+- jQuery, ReactJS, Angular
 - MS SQL, PostgreSQL, NoSQL(MongoDB)
 - Docker
 - Microservice
-- AWS
+- AWS, Azure
+- Backend development with Python, including expertise in Big Data processing, Apache Airflow for workflow automation, and data engineering tools for building scalable, efficient data pipelines
 
 💞️ I’m looking to collaborate on open-source projects that tackle real-world problems and push the boundaries of technology.
 
