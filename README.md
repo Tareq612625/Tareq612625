@@ -6,6 +6,8 @@
 
 💼 I have expertise in:
 - C#, ASP.NET, ASP .NET CORE
+- Python, FAST-API
+- RabbitMQ
 - HTML, CSS, JavaScript
 - jQuery, ReactJS, Angular
 - MS SQL, PostgreSQL, NoSQL(MongoDB)
