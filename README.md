@@ -5,10 +5,11 @@
 🌱 I’m currently learning more about containerization and orchestration with Docker and Kubernetes.
 
 💼 I have expertise in:
+- Python, FastAPI
 - C#, ASP.NET, ASP .NET CORE
-- Python, FAST-API
 - Apache Airflow, Apache Spark, Apache Superset, ETL, ELT, Databricks
 - RabbitMQ
+- Azure DevOps
 - HTML, CSS, JavaScript
 - jQuery, ReactJS, Angular
 - MS SQL, PostgreSQL, NoSQL(MongoDB)
