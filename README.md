@@ -6,7 +6,7 @@
 
 💼 I have expertise in:
 - Python, FastAPI
-- C#, ASP.NET, ASP .NET CORE
+- C#, ASP.NET
 - Apache Airflow, Apache Spark, Apache Superset, ETL, ELT, Databricks
 - RabbitMQ
 - Azure DevOps
