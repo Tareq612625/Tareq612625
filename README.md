@@ -1,23 +1,206 @@
-👋 Hi, I’m @Tareq612625
+<h1 align="center">Hi 👋, I'm Tareq Aziz</h1>
+<h3 align="center">Software & Data Engineer · System Design · Microservices · Data Pipelines · AI-Native Development</h3>
 
-👀 I’m interested in building innovative software solutions and exploring emerging technologies.
+<p align="center">
+  <a href="https://github.com/Tareq612625">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=From+scratch+to+cloud+deployment+%E2%98%81%EF%B8%8F;Designing+scalable+systems+%F0%9F%A7%A9;Shipping+microservices+on+Docker+%26+Kubernetes+%F0%9F%90%B3;Building+data+pipelines+%F0%9F%94%84;Learning+Data+Science+%26+ML+%F0%9F%93%9A;AI-native+dev+with+Claude+Code+%26+Cursor+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
 
-🌱 I’m currently learning more about containerization and orchestration with Docker and Kubernetes.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tareq-aziz-89225118b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/TareqAz76347170"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/TareqazizOfficial/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Tareq612625&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-💼 I have expertise in:
-- Python, FastAPI
-- C#, ASP.NET
-- Apache Airflow, Apache Spark, Apache Superset, ETL, ELT, Databricks
-- RabbitMQ
-- Azure DevOps
-- HTML, CSS, JavaScript
-- jQuery, ReactJS, Angular
-- MS SQL, PostgreSQL, NoSQL(MongoDB)
-- Docker
-- Microservice
-- AWS, Azure
-- Backend development with Python, including expertise in Big Data processing, Apache Airflow for workflow automation, and data engineering tools for building scalable, efficient data pipelines
+---
 
-💞️ I’m looking to collaborate on open-source projects that tackle real-world problems and push the boundaries of technology.
+## 🧑‍💻 About Me
 
-📫 How to reach me: [(https://www.linkedin.com/in/tareq-aziz-89225118b/)]
+```python
+class TareqAziz:
+    role     = "Software & Data Engineer"
+    location = "Dhaka, Bangladesh 🇧🇩"
+    focus    = ["System Design", "Microservices", "Data Pipelines", "LLM Apps"]
+    delivers = "Idea → Design → Code → Docker → Kubernetes → Cloud"
+    workflow = "AI-native: Claude Code + Cursor"
+
+    def currently_building(self):
+        return "Analytics microservices with FastAPI, Docker & Kubernetes"
+
+    def currently_learning(self):
+        return ["Data Science & ML: EDA, scikit-learn, Matplotlib, TensorFlow",
+                "Kubernetes at scale", "AI agents & tool use"]
+
+    def ask_me_about(self):
+        return ["System Design", "Microservices", "FastAPI", "ETL/ELT", "Airflow", "RAG"]
+```
+
+- 🧩 I **design systems** and build **full applications from scratch to cloud deployment**.
+- 🐳 I build and **maintain microservices**, packaged in **Docker** and running on **Kubernetes**.
+- 🔄 I design **ETL/ELT data pipelines** that move raw data into analytics-ready datasets.
+- 🤖 I work **AI-native**: Claude Code and Cursor are part of my daily workflow, and I integrate **LLMs** (RAG, tool use, agents) into real products.
+- 📚 Currently **learning Data Science & ML**: EDA, scikit-learn, Matplotlib and TensorFlow.
+- 💞️ Open to collaborating on open-source projects that solve real-world problems.
+
+---
+
+## 🧩 System Design & End-to-End Delivery
+
+I own applications end to end, from the first whiteboard sketch to a running system in the cloud, and I keep them healthy after launch.
+
+```mermaid
+flowchart LR
+    R["📝 Requirements"] --> SD["🧩 System Design<br/>services · APIs · data model"]
+    SD --> B["💻 Build<br/>FastAPI · .NET · Angular/React"]
+    B --> T["🧪 Test<br/>unit · integration · e2e"]
+    T --> C["🐳 Containerize<br/>Docker"]
+    C --> CI["🔁 CI/CD<br/>Azure DevOps"]
+    CI --> D["☁️ Deploy<br/>Kubernetes · AWS · Azure"]
+    D --> M["🛠️ Maintain<br/>monitor · fix · scale · upgrade"]
+    M -.-> SD
+```
+
+- 🧩 **System design:** service boundaries, REST API contracts, database schema, async messaging with RabbitMQ, and scaling choices.
+- 🐳 **Microservices:** build, containerize and maintain services, including migrations, upgrades and framework ports (e.g. Flask → FastAPI).
+- 🚀 **Scratch to cloud:** take a full application from an empty repo to production on AWS / Azure with Docker, Kubernetes and CI/CD.
+- 🛠️ **Maintenance:** bug fixing, refactoring, dependency upgrades and keeping services reliable after launch.
+
+---
+
+## 🏗️ What I Build
+
+```mermaid
+flowchart LR
+    A["📥 Sources<br/>APIs · DBs · Files"] --> B["🔄 Ingest<br/>Airflow · RabbitMQ"]
+    B --> C["⚙️ Transform<br/>Spark · Databricks"]
+    C --> D[("🗄️ Store<br/>PostgreSQL · MongoDB")]
+    D --> E["📊 Analyze & Model 🌱<br/>EDA · scikit-learn · TensorFlow"]
+    D --> F["🚀 Serve<br/>FastAPI · Superset"]
+    E --> G["🤖 LLM & RAG Apps"]
+    F --> G
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 System Design & Architecture
+<p>
+  <img src="https://img.shields.io/badge/System_Design-1F6FEB?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_%2F_Onion_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scratch_%E2%86%92_Cloud-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" />
+</p>
+
+### ☁️ Cloud-Native & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dapr-0D2192?style=for-the-badge&logo=dapr&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🔄 Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### 📊 Data Science & Machine Learning · 🌱 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-8E44AD?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🤖 AI-Native Development & LLMs
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF4F8B?style=for-the-badge&logo=probot&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Web
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## ⚡ How I Ship Faster: AI-Native Workflow
+
+| Step | Tooling | What it gives me |
+|------|---------|------------------|
+| 🧠 **Plan** | Claude Code | Reads the codebase, drafts a plan, and spots edge cases before I write code |
+| ⚡ **Build** | Cursor + Claude Code | Multi-file changes, refactors and boilerplate in minutes |
+| 🧪 **Verify** | pytest · Docker Compose | Tests and end-to-end checks on a local stack that mirrors production |
+| 🔍 **Review** | AI code review + human review | A second pass for bugs before a PR goes out |
+| 🚀 **Ship** | Docker · Kubernetes · CI/CD | Reproducible builds and deployments |
+
+> AI writes faster; I stay responsible for design, correctness and review.
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🤖 [**RAG-Analytics**](https://github.com/Tareq612625/RAG-Analytics) | Chat with your database: ask business questions in plain English and get answers | FastAPI · Angular · RAG · LLM |
+| 🔄 [**Airflow Video Pipeline**](https://github.com/Tareq612625/test_cloud_scripts) | Video processing pipeline orchestrated with Apache Airflow | Airflow · Python · Docker |
+| 🐳 [**Dapr FastAPI Microservices**](https://github.com/Tareq612625/Dapr_FastAPI_Microservices_with_Docker) | Microservices that talk through Dapr sidecars | FastAPI · Dapr · Docker |
+| 🏗️ [**FastAPI Project Structure**](https://github.com/Tareq612625/Fast_API_Project_Structure) | Clean, scalable layout for FastAPI services | FastAPI · Python |
+| 📊 [**Haberman's Survival EDA**](https://github.com/Tareq612625/Haberman-s_Survival._DataSet) | 🌱 Learning project: exploratory data analysis on the Haberman survival dataset | Pandas · Matplotlib · Jupyter |
+| 🧅 [**Onion Architecture App**](https://github.com/Tareq612625/OA_WebApplication) | Onion architecture with ASP.NET Core 6 | C# · .NET |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tareq612625&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq612625&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tareq612625&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tareq612625&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <b>📫 Let's connect:</b> <a href="https://www.linkedin.com/in/tareq-aziz-89225118b/">LinkedIn</a> · <a href="https://x.com/TareqAz76347170">X</a>
+  <br/><br/>
+  <i>⭐ If you like my work, feel free to star a repo!</i>
+</p>
