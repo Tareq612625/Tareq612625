@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tareq Aziz</h1>
-<h3 align="center">Software & Data Engineer · System Design · Microservices · Data Pipelines · AI-Native Development</h3>
-
-<p align="center">
-  <a href="https://github.com/Tareq612625">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=From+scratch+to+cloud+deployment+%E2%98%81%EF%B8%8F;Designing+scalable+systems+%F0%9F%A7%A9;Shipping+microservices+on+Docker+%26+Kubernetes+%F0%9F%90%B3;Building+data+pipelines+%F0%9F%94%84;Learning+Data+Science+%26+ML+%F0%9F%93%9A;AI-native+dev+with+Claude+Code+%26+Cursor+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</p>
+<p align="center"><b>Software & Data Engineer</b> · Dhaka, Bangladesh 🇧🇩</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tareq-aziz-89225118b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,69 +12,13 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class TareqAziz:
-    role     = "Software & Data Engineer"
-    location = "Dhaka, Bangladesh 🇧🇩"
-    focus    = ["System Design", "Microservices", "Data Pipelines", "LLM Apps"]
-    delivers = "Idea → Design → Code → Docker → Kubernetes → Cloud"
-    workflow = "AI-native: Claude Code + Cursor"
+I build applications end to end, from system design to cloud deployment.
 
-    def currently_building(self):
-        return "Analytics microservices with FastAPI, Docker & Kubernetes"
-
-    def currently_learning(self):
-        return ["Data Science & ML: EDA, scikit-learn, Matplotlib, TensorFlow",
-                "Kubernetes at scale", "AI agents & tool use"]
-
-    def ask_me_about(self):
-        return ["System Design", "Microservices", "FastAPI", "ETL/ELT", "Airflow", "RAG"]
-```
-
-- 🧩 I **design systems** and build **full applications from scratch to cloud deployment**.
-- 🐳 I build and **maintain microservices**, packaged in **Docker** and running on **Kubernetes**.
-- 🔄 I design **ETL/ELT data pipelines** that move raw data into analytics-ready datasets.
-- 🤖 I work **AI-native**: Claude Code and Cursor are part of my daily workflow, and I integrate **LLMs** (RAG, tool use, agents) into real products.
-- 📚 Currently **learning Data Science & ML**: EDA, scikit-learn, Matplotlib and TensorFlow.
-- 💞️ Open to collaborating on open-source projects that solve real-world problems.
-
----
-
-## 🧩 System Design & End-to-End Delivery
-
-I own applications end to end, from the first whiteboard sketch to a running system in the cloud, and I keep them healthy after launch.
-
-```mermaid
-flowchart LR
-    R["📝 Requirements"] --> SD["🧩 System Design<br/>services · APIs · data model"]
-    SD --> B["💻 Build<br/>FastAPI · .NET · Angular/React"]
-    B --> T["🧪 Test<br/>unit · integration · e2e"]
-    T --> C["🐳 Containerize<br/>Docker"]
-    C --> CI["🔁 CI/CD<br/>Azure DevOps"]
-    CI --> D["☁️ Deploy<br/>Kubernetes · AWS · Azure"]
-    D --> M["🛠️ Maintain<br/>monitor · fix · scale · upgrade"]
-    M -.-> SD
-```
-
-- 🧩 **System design:** service boundaries, REST API contracts, database schema, async messaging with RabbitMQ, and scaling choices.
-- 🐳 **Microservices:** build, containerize and maintain services, including migrations, upgrades and framework ports (e.g. Flask → FastAPI).
-- 🚀 **Scratch to cloud:** take a full application from an empty repo to production on AWS / Azure with Docker, Kubernetes and CI/CD.
-- 🛠️ **Maintenance:** bug fixing, refactoring, dependency upgrades and keeping services reliable after launch.
-
----
-
-## 🏗️ What I Build
-
-```mermaid
-flowchart LR
-    A["📥 Sources<br/>APIs · DBs · Files"] --> B["🔄 Ingest<br/>Airflow · RabbitMQ"]
-    B --> C["⚙️ Transform<br/>Spark · Databricks"]
-    C --> D[("🗄️ Store<br/>PostgreSQL · MongoDB")]
-    D --> E["📊 Analyze & Model 🌱<br/>EDA · scikit-learn · TensorFlow"]
-    D --> F["🚀 Serve<br/>FastAPI · Superset"]
-    E --> G["🤖 LLM & RAG Apps"]
-    F --> G
-```
+- 🧩 **System Design & Microservices:** design, build and maintain services from scratch to production
+- 🐳 **Cloud-Native:** Docker, Kubernetes and CI/CD on AWS & Azure
+- 🔄 **Data Engineering:** ETL/ELT pipelines with Airflow, Spark and Databricks
+- 🤖 **AI-Native Development:** Claude Code, Cursor and LLM integration (RAG, agents)
+- 📚 **Currently learning:** Data Science & ML (EDA, scikit-learn, Matplotlib, TensorFlow)
 
 ---
 
