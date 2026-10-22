@@ -11,7 +11,9 @@ I build applications end to end, from system design to cloud deployment.
 - 🐳 **Cloud-Native:** Docker, Kubernetes and CI/CD on AWS & Azure
 - 🔄 **Data Engineering:** ETL/ELT pipelines with Airflow, Spark and Databricks
 - 🤖 **AI-Native Development:** Claude Code, Cursor and LLM integration (RAG, agents)
-- 📚 **Currently learning:** Data Science & ML (EDA, scikit-learn, Matplotlib, TensorFlow)
+- 📚 **Learning Data Science & ML:** EDA, scikit-learn, Matplotlib, TensorFlow
+- ⚙️ **Learning MLOps:** MLflow experiment tracking, model serving with FastAPI, ML pipelines on Kubernetes
+- 🧠 **Learning LLMOps:** LLM evaluation, prompt versioning and monitoring for AI apps
 
 ---
 
@@ -62,6 +64,8 @@ I build applications end to end, from system design to cloud deployment.
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-6A1B9A?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 🤖 AI-Native Development & LLMs
