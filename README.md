@@ -93,33 +93,6 @@ I build applications end to end, from system design to cloud deployment.
 
 ---
 
-## ⚡ How I Ship Faster: AI-Native Workflow
-
-| Step | Tooling | What it gives me |
-|------|---------|------------------|
-| 🧠 **Plan** | Claude Code | Reads the codebase, drafts a plan, and spots edge cases before I write code |
-| ⚡ **Build** | Cursor + Claude Code | Multi-file changes, refactors and boilerplate in minutes |
-| 🧪 **Verify** | pytest · Docker Compose | Tests and end-to-end checks on a local stack that mirrors production |
-| 🔍 **Review** | AI code review + human review | A second pass for bugs before a PR goes out |
-| 🚀 **Ship** | Docker · Kubernetes · CI/CD | Reproducible builds and deployments |
-
-> AI writes faster; I stay responsible for design, correctness and review.
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 [**RAG-Analytics**](https://github.com/Tareq612625/RAG-Analytics) | Chat with your database: ask business questions in plain English and get answers | FastAPI · Angular · RAG · LLM |
-| 🔄 [**Airflow Video Pipeline**](https://github.com/Tareq612625/test_cloud_scripts) | Video processing pipeline orchestrated with Apache Airflow | Airflow · Python · Docker |
-| 🐳 [**Dapr FastAPI Microservices**](https://github.com/Tareq612625/Dapr_FastAPI_Microservices_with_Docker) | Microservices that talk through Dapr sidecars | FastAPI · Dapr · Docker |
-| 🏗️ [**FastAPI Project Structure**](https://github.com/Tareq612625/Fast_API_Project_Structure) | Clean, scalable layout for FastAPI services | FastAPI · Python |
-| 📊 [**Haberman's Survival EDA**](https://github.com/Tareq612625/Haberman-s_Survival._DataSet) | 🌱 Learning project: exploratory data analysis on the Haberman survival dataset | Pandas · Matplotlib · Jupyter |
-| 🧅 [**Onion Architecture App**](https://github.com/Tareq612625/OA_WebApplication) | Onion architecture with ASP.NET Core 6 | C# · .NET |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
