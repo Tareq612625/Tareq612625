@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tareq Aziz</h1>
 <p align="center"><b>Software & Data Engineer</b> · Dhaka, Bangladesh 🇧🇩</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tareq-aziz-89225118b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/TareqAz76347170"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/TareqazizOfficial/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Tareq612625&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
